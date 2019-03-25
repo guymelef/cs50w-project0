@@ -15,36 +15,11 @@ body {
 	color: #0078ff;
 }
 
+
 .custom-toggler.navbar-toggler {
     border-color: #46A1D1;
 }
 
 .custom-toggler .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(27.5, 63.1,82, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
-}
-
-p {
-	text-align: justify;
-	font-size: 120%;
-}
-
-#buy-where {
-	padding-top: 10px;
-	text-align: center;
-	font-size: 90%;
-}
-
-.container {
-	padding-top: 5%;
-}
-
-h2 {
-	text-align: center;
-	text-transform: uppercase;
-	color: white;
-	text-shadow: 2px 1px gray;
-}
-
-.card-body {
-	text-align: center;
 }
