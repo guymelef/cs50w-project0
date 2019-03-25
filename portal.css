@@ -56,13 +56,6 @@ body {
   height: 100%;
 }
 
-/*@media only screen and (max-width:540px), (max-width:720px), (max-width:960px){
-	body {
-		background-image: url("GLaDOS.png"), url("tile.png");
-		background-repeat: no-repeat, repeat;
-		background-size: 55%, auto;
-	}
-}*/
 @media only screen and (max-width:1200px) {
 	body {
 		background-image: url("GLaDOS.png"), url("tile.png");
