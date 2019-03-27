@@ -34,7 +34,7 @@ body {
 	color: #0078ff;
 }
 
-.custom-toggler.navbar-toggler {
+.custom-toggler .navbar-toggler {
     border-color: #46A1D1;
 }
 
